@@ -1,2 +1,2 @@
-1. Decide which businiss to order form 
-2. Decide which type of pizza to order 
+1. Decide which businiss to order form  
+2. Decide which type of pizza to order next step is 
