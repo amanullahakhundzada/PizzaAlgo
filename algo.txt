@@ -1,2 +1,4 @@
 1. Decide which businiss to order form  
 2. Decide which type of pizza to order next step is 
+3. how you wants to pay 
+4 where delever
